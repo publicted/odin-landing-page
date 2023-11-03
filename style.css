@@ -113,6 +113,7 @@ img {
 .section3 {
     display: flex;
     background-color: #E5E7EB;
+    flex-direction: column;
 }
 
 .quote {
@@ -120,8 +121,11 @@ img {
     font-style: italic;
     font-weight: 100;
     color: #1F2937;
+    margin: 128px 512px 0;
 }
 
 .author {
     font-weight: bold;
+    text-align: right;
+    margin: 16px 512px 128px;
 }
