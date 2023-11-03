@@ -58,7 +58,8 @@ button {
     color: white;
     margin-top: 12px;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
+    padding: 8px 32px;
 }
 
 .rightside {
@@ -128,4 +129,18 @@ img {
     font-weight: bold;
     text-align: right;
     margin: 16px 512px 128px;
+}
+
+.container3 {
+    background-color: #3882F6;
+}
+
+.call-hero {
+    color: white;
+    font-weight: 700;
+}
+
+.call-button {
+    border: 2px solid white;
+    color: white;
 }
