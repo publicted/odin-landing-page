@@ -131,8 +131,17 @@ img {
     margin: 16px 512px 128px;
 }
 
+.section4 {
+    padding: 128px 256px;
+}
+
 .container3 {
     background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    padding: 56px;
 }
 
 .call-hero {
