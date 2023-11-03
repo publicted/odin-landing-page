@@ -3,8 +3,7 @@
     font: roboto;
 }
 
-.section1,
-.footer {
+.section1 {
     background-color: #1F2937;
     padding: 16px 200px 56px;
 }
@@ -152,4 +151,13 @@ img {
 .call-button {
     border: 2px solid white;
     color: white;
+}
+
+.footer {
+    color: white;
+    background-color: #1F2937;
+    padding: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
