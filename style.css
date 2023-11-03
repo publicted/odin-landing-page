@@ -68,3 +68,40 @@ button {
     align-items: center;
     flex: 1 1 auto;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 32px 0;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 56px;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;  
+    margin: 16px;
+    width: 160px;
+}
+
+img {
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 12px;
+}
+
+.caption {
+    font-size: 18px;
+    text-align: center;
+    text-wrap: wrap;
+}
